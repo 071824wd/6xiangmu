@@ -1,11 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
-import router from './router'
-import './vm/rem'
-import './vm/reset.css'
+import './reset.css'
+import './rem'
 Vue.config.productionTip = false
 
 new Vue({
-  router,
   render: h => h(App),
 }).$mount('#app')
