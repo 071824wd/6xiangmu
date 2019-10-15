@@ -1,14 +1,8 @@
 <template>
   <div id="app">
-
-    <router-view></router-view>
-    <!-- <Header></Header> -->
-  
-
     <headercom></headercom>
     <contentcom></contentcom>
     <footercom></footercom>
-
   </div>
 </template>
 
