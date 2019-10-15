@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import '../public/rem'
+// import '../public/rem'
 import '../public/css/a.css'
 //引入轮播图插件
 import wcSwiper from 'wc-swiper'
